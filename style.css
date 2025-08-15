@@ -1,0 +1,17 @@
+body {
+  background: pink;
+  font-family: Paradiso, raks;
+  text-align: center;
+}
+button {
+  padding: 30px20px;
+  background: hotpink;
+  border: none;
+  color: pink;
+  font-size: 20px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+button:hover {
+  background: deeppink;
+}
